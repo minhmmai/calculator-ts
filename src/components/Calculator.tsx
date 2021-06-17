@@ -5,7 +5,6 @@ import Button, { ButtonType } from './Button';
 import Display from './Display';
 
 const Container = styled.div`
-    flex: 1;
 `
 
 const Grid = styled.div`
