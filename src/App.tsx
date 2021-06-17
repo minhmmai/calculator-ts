@@ -5,11 +5,11 @@ import Calculator from './components/Calculator';
 import './App.css';
 
 const Container = styled.div`
-  align-items: center;
-  background: #323232;
   display: flex;
-  flex-direction: column;
-  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  background: #323232;
+  height: 100vh;
 `
 
 function App() {
